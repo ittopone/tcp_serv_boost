@@ -1,0 +1,2 @@
+2016-11-28 16:57:50.485 LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1787
+2016-11-28 16:57:50.485 LOG_ALARM logger id=0 key=Main name=Main path=./logFile/ level=1 display=true log4z.cpp:1797

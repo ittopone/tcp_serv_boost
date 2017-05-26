@@ -1,0 +1,17 @@
+2016-12-07 13:00:06.613 LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1787
+2016-12-07 13:00:06.613 LOG_ALARM logger id=0 key=Main name=Main path=./logFile/ level=1 display=true log4z.cpp:1797
+2016-12-07 13:00:12.042 LOG_DEBUG eton server start success. class_eton_server.cpp:34
+2016-12-07 13:00:14.070 LOG_ERROR 001d6924insert into eton_table_users values(?                   ,?                   class_eton_database.cpp:29
+2016-12-07 13:00:14.070 LOG_ERROR insert user: 18825221627, yjw failed ! class_eton_database.cpp:251
+2016-12-07 13:00:15.271 LOG_ERROR 02e16320insert into eton_table_users values(?                   ,?                   class_eton_database.cpp:29
+2016-12-07 13:00:15.271 LOG_ERROR insert user: 18825221627, yjw failed ! class_eton_database.cpp:251
+2016-12-07 13:00:16.051 LOG_ERROR 001d6924insert into eton_table_users values(?                   ,?                   class_eton_database.cpp:29
+2016-12-07 13:00:16.051 LOG_ERROR insert user: 18825221627, yjw failed ! class_eton_database.cpp:251
+2016-12-07 13:00:16.332 LOG_ERROR 02e16320insert into eton_table_users values(?                   ,?                   class_eton_database.cpp:29
+2016-12-07 13:00:16.332 LOG_ERROR insert user: 18825221627, yjw failed ! class_eton_database.cpp:251
+2016-12-07 13:00:16.503 LOG_ERROR 02f56460insert into eton_table_users values(?                   ,?                   class_eton_database.cpp:29
+2016-12-07 13:00:16.503 LOG_ERROR insert user: 18825221627, yjw failed ! class_eton_database.cpp:251
+2016-12-07 13:00:17.252 LOG_ERROR 001d6924insert into eton_table_users values(?                   ,?                   class_eton_database.cpp:29
+2016-12-07 13:00:17.252 LOG_ERROR insert user: 18825221627, yjw failed ! class_eton_database.cpp:251
+2016-12-07 13:00:17.658 LOG_ERROR 02f56460insert into eton_table_users values(?                   ,?                   class_eton_database.cpp:29
+2016-12-07 13:00:17.658 LOG_ERROR insert user: 18825221627, yjw failed ! class_eton_database.cpp:251

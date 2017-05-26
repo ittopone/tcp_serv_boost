@@ -1,0 +1,15 @@
+2016-12-28 09:55:38.905 LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1787
+2016-12-28 09:55:38.906 LOG_ALARM logger id=0 key=Main name=Main path=./logFile/ level=1 display=true log4z.cpp:1797
+2016-12-28 09:55:38.908 LOG_ERROR msg:006fb8f8.code:0.text:.info:.sql:006fbce0 class_eton_database.cpp:31
+2016-12-28 09:55:38.911 LOG_ERROR msg:006fb8f8.code:0.text:.info:.sql:006fbce0 class_eton_database.cpp:31
+2016-12-28 09:55:38.914 LOG_ERROR msg:006fb8f8.code:0.text:.info:.sql:006fbce0 class_eton_database.cpp:31
+2016-12-28 09:55:38.918 LOG_ERROR msg:006fb8f8.code:0.text:.info:.sql:006fbce0 class_eton_database.cpp:31
+2016-12-28 09:55:38.919 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:38.921 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:38.923 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:38.934 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:41.000 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:44.000 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:47.000 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:50.000 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31
+2016-12-28 09:55:53.000 LOG_ERROR msg:006fb580.code:0.text:.info:.sql:006fb968 class_eton_database.cpp:31

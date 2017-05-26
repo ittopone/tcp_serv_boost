@@ -1,0 +1,7 @@
+2016-12-07 08:27:33.648 LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1787
+2016-12-07 08:27:33.649 LOG_ALARM logger id=0 key=Main name=Main path=./logFile/ level=1 display=true log4z.cpp:1797
+2016-12-07 08:27:37.953 LOG_DEBUG eton server start success. class_eton_server.cpp:34
+2016-12-07 08:50:50.499 LOG_ERROR 0318cb4cinsert into eton_table_users(phone_num,user_name,password) values('13129592827','中华人民','123456789012') class_eton_database.cpp:26
+2016-12-07 08:50:50.500 LOG_ERROR insert user: 13129592827, 中华人民 failed ! class_eton_database.cpp:226
+2016-12-07 09:31:31.417 LOG_ERROR 0020ce3cinsert into eton_table_users(phone_num,user_name,password) values('13129592827','中华人民','123456789012') class_eton_database.cpp:26
+2016-12-07 09:31:31.417 LOG_ERROR insert user: 13129592827, 中华人民 failed ! class_eton_database.cpp:226

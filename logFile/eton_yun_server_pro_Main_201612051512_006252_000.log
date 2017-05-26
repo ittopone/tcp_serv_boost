@@ -1,0 +1,5 @@
+2016-12-05 15:12:44.568 LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1787
+2016-12-05 15:12:44.568 LOG_ALARM logger id=0 key=Main name=Main path=./logFile/ level=1 display=true log4z.cpp:1797
+2016-12-05 15:12:48.845 LOG_DEBUG eton server start success. class_eton_server.cpp:34
+2016-12-05 15:12:54.924 LOG_ERROR 002ccac4insert into eton_table_devices(dev_type,dev_series,dev_id) values('112','1','01020304') class_eton_database.cpp:31
+2016-12-05 15:12:54.924 LOG_ERROR insert device: 01020304 failed ! class_eton_database.cpp:361

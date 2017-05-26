@@ -1,0 +1,5 @@
+2016-12-06 15:59:54.916 LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1787
+2016-12-06 15:59:54.916 LOG_ALARM logger id=0 key=Main name=Main path=./logFile/ level=1 display=true log4z.cpp:1797
+2016-12-06 15:59:59.043 LOG_DEBUG eton server start success. class_eton_server.cpp:34
+2016-12-06 16:01:06.030 LOG_ERROR server exception: Unable to find key in unordered_map. main.cpp:33
+2016-12-06 16:01:06.030 LOG_DEBUG eton server shutdown. main.cpp:36

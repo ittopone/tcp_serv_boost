@@ -1,0 +1,5 @@
+2016-12-03 16:17:11.511 LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1787
+2016-12-03 16:17:11.511 LOG_ALARM logger id=0 key=Main name=Main path=./logFile/ level=1 display=true log4z.cpp:1797
+2016-12-03 16:17:13.716 LOG_ERROR 0023e4b8create table if not exists eton_table_devices(id integer unsigned auto_increment not null,dev_type tinyint unisgned not null,dev_series tinyint unisgned not null,dev_id char(24) not null,dev_name char(24),phone_num char(11),primary key(id),unique(dev_id)) class_eton_database.cpp:31
+2016-12-03 16:17:13.716 LOG_ERROR create table eton_table_devices failed ! class_eton_database.cpp:187
+2016-12-03 16:17:15.782 LOG_DEBUG eton server start success. class_eton_server.cpp:34
